@@ -10,7 +10,7 @@ To use, simply compile the provided source code and run the Main class.
 
 When prompted by the program, enter a test string of your choice.
 
-```bash
+```
 Please enter a test string.
 What language is this question in?
 Building English model ... complete
